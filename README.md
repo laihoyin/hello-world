@@ -1,2 +1,2 @@
 # hello-world
-Hello world. This is the first draft of the README file. Soon there will be more contents.
+Hello world. My name is Hoyin. I love food and travel.
